@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bismark Yamoah but I love to be called KBis. I am 19 years old and I am always happy because I am young.
+- 👋 Hi, I’m Bismark Yamoah but I love to be called KBis. I am 19 years old and I am always happy.
 - 👀 I really love to solve problems especially, mathematical problems and that is probably the reason why I'm studying computer science in the university.
 - 🌱 I’m currently a first year student in the University of Ghana.
 - 💞️ I’m looking to collaborate on projects that will make me a better programmer.
