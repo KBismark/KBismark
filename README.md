@@ -1,1 +1,1 @@
-👋 Hi, you can call me **K Bis**.
+👋 Hi, I'm **K Bis**.
