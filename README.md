@@ -18,18 +18,18 @@ experience in creating Nodejs and Expressjs backend applications. [Reach me via 
 <br/> 
 
 ## How many times did I try creating my own reactive web framework😆?   
-I can't even tell how many times. So many times😆 Some were left on my laptops without pushing. And the codes, very ugly😂 but achieved the results. The ideas behind creating a framework were good ones though. I learned a lot about the entire web. Most of these happened 2022 and 2023. I got to put my problem solving skills into practice too. All the compilers I built to parse the JSX of the frameworks were built from scratch and RegExp-only compilers. The greatest motivation in those moments were everytime I was able to do what I thought of doing... It kept me challenging myselft to do more.     
+So many times😆 I can't even tell how many times. Some were left on my laptops without pushing. And the codes, very ugly😂 but achieved the results. The ideas behind creating a framework were good ones though. I learned a lot about the entire web. I got to put my problem solving skills into practice too. All the compilers I built to parse the JSX of the frameworks were built from scratch and RegExp-only compilers. The greatest motivation in those moments were everytime I was able to do what I thought of doing... It kept me challenging myselft to do more.     
 
 **Let me list some here (Latest first):** 
-- [Xolus](https://github.com/KBismark/xolus) : JSX template engine and a modern html rendering framework. A link to a full app created with this framework is available on the project's repo.
+- [Xolus (in 2024)](https://github.com/KBismark/xolus) : JSX template engine and a modern html rendering framework. A link to a full app created with this framework is available on the project's repo.
 
-- [HoneyBee.js](https://github.com/KBismark/honey-bee/blob/master/demo/README.md) : Build your next interactive and reactive multi-page applications with the latest but fastest librabry: HoneyBee.js.
+- [HoneyBee.js (2023)](https://github.com/KBismark/honey-bee/blob/master/demo/README.md) : Build your next interactive and reactive multi-page applications with the latest but fastest librabry: HoneyBee.js.
 
-- [TheNext](https://github.com/KBismark/thenext) : This repo uses one framework I created called Breakerjs.
+- [TheNext (in 2023)](https://github.com/KBismark/thenext) : This repo uses one framework I created called Breakerjs.
 
-- [JSHON](https://github.com/KBismark/jshon) : Build world-class web apps with JavaScript-Html Object Notation (JSHON).
+- [JSHON (in 2023)](https://github.com/KBismark/jshon) : Build world-class web apps with JavaScript-Html Object Notation (JSHON).
 
-- [Festjs](https://github.com/KBismark/festjs) : Build fast, reactive and reusable components for the web. **This is when it all started!😆**
+- [Festjs (in 2022)](https://github.com/KBismark/festjs) : Build fast, reactive and reusable components for the web. **This is when it all started!😆**
 
 
 ## Can't leave out my first biggest work. NoscDB!
