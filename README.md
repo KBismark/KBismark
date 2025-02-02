@@ -29,7 +29,7 @@ I can't even tell how many times. So many times😆 Some were left on my laptops
 
 - [JSHON](https://github.com/KBismark/jshon) : Build world-class web apps with JavaScript-Html Object Notation (JSHON).
 
-- [Festjs](https://github.com/KBismark/festjs) : Build fast, reactive and reusable components for the web. This is when it all started!😆
+- [Festjs](https://github.com/KBismark/festjs) : Build fast, reactive and reusable components for the web. **This is when it all started!😆**
 
 
 ## Can't leave out my first biggest work. NoscDB!
