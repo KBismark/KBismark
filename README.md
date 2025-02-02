@@ -6,7 +6,7 @@ experience in creating NodeJS and Expressjs backend applications.
  
 ## Latest projects    
 
-- [Open Dictionary Mobile App](https://github.com/KBismark/open-dictionary) : An open sourced dictionary mobile application created with expo and using the Free Dictionary API.    
+- [Open Dictionary (Mobile App)](https://github.com/KBismark/open-dictionary) : An open sourced dictionary mobile application created with expo and using the Free Dictionary API.    
 
 ![Expo Dictionary App Preview](https://raw.githubusercontent.com/KBismark/open-dictionary/master/assets/images/Expo_Dictionary_App.png)
 
