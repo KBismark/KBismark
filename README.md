@@ -21,6 +21,8 @@ experience in creating Nodejs and Expressjs backend applications. [Reach me via 
 I can't even tell how many times. So many times😆 Some were left on my laptops without pushing. And the codes, very ugly😂 but I achieved the results. The ideas behind creating a framework were good ones though. I learned a lot about the entire web. Got to use my Nodejs and JavaScript skills into practice too. All the compilers I built to parse the JSX of the many frameworks were built from scratch and RegExp-only compilers. The greatest motivation in those moments were everytime I was able to do what I thought of doing... It kept me challenging myselft to do more.    
 
 **Let me list some here (Latest first):** 
-- [Xolos](https://github.com/KBismark/xolus) : JSX template engine and a modern html rendering framework. A link to a full app created with this framework is available on the project's repo.
+- [Xolus](https://github.com/KBismark/xolus) : JSX template engine and a modern html rendering framework. A link to a full app created with this framework is available on the project's repo.
 
-- 
+- [HoneyBee.js](https://github.com/KBismark/honey-bee/blob/master/demo/README.md) : Build your next interactive and reactive multi-page applications with the latest but fastest librabry: HoneyBee.js.
+
+-    
