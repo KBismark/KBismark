@@ -18,7 +18,7 @@ experience in creating Nodejs and Expressjs backend applications. [Reach me via 
 <br/> 
 
 ## How many times did I try creating my own reactive web framework😆?   
-I can't even tell how many times. So many times😆 Some were left on my laptops without pushing. And the codes, very ugly😂 but achieved the results. The ideas behind creating a framework were good ones though. I learned a lot about the entire web. Most of these happened 2022 and 2023. Got to use my Nodejs and JavaScript skills into practice too. All the compilers I built to parse the JSX of the frameworks were built from scratch and RegExp-only compilers. The greatest motivation in those moments were everytime I was able to do what I thought of doing... It kept me challenging myselft to do more.     
+I can't even tell how many times. So many times😆 Some were left on my laptops without pushing. And the codes, very ugly😂 but achieved the results. The ideas behind creating a framework were good ones though. I learned a lot about the entire web. Most of these happened 2022 and 2023. I got to put my problem solving skills into practice too. All the compilers I built to parse the JSX of the frameworks were built from scratch and RegExp-only compilers. The greatest motivation in those moments were everytime I was able to do what I thought of doing... It kept me challenging myselft to do more.     
 
 **Let me list some here (Latest first):** 
 - [Xolus](https://github.com/KBismark/xolus) : JSX template engine and a modern html rendering framework. A link to a full app created with this framework is available on the project's repo.
