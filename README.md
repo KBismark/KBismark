@@ -10,3 +10,7 @@ experience in creating Nodejs and Expressjs backend applications. [Reach me via 
 
 ![Expo Dictionary App Preview](https://raw.githubusercontent.com/KBismark/open-dictionary/master/assets/images/Expo_Dictionary_App.png)
 
+
+- [Cachestorage (NPM Package)](https://github.com/KBismark/cachestorage) : Do you like to build offline-first applications? Or you just need a better way to save data locally on the browser for your applications? Cachestorage gives the opportunity to interact easily with the Cache API for data storage and retrieval. Cachestorage also gives you the opportunity to validate, encrypt and even compress your data before storage.🔥🔥    
+     
+[This article tells more on using the Cache API for data storage.](https://web.dev/articles/cache-api-quick-guide)    
