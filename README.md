@@ -1,6 +1,7 @@
-Hi👋 I am Bismark😎. I am a software engineer specializing in the field of web development and mobile app development. 
-I have experience in creating Angular applications, React Applications, React Native and Expo apps. I have good amount of 
-experience in creating Nodejs and Expressjs backend applications. [Reach me via mail📩](mailto:bismarkkwabenayamoah@gmail.com)   
+Hi👋 I am Bismark😎. I'm a software engineer specializing in web and mobile app development with hands-on experience in building 
+Angular and React applications, as well as mobile apps using React Native and Expo. I also have experience in developing backend 
+applications with Node.js and Express.js. [Reach me via mail📩](mailto:bismarkkwabenayamoah@gmail.com)   
+
 
 [Check my github organization account for open sourced Angular begginer applications if you are new to Angular](https://github.com/jsgroundup)     
  
