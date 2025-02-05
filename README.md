@@ -5,8 +5,12 @@ applications with Node.js and Express.js. [Reach me via mail📩](mailto:bismark
 
 [Check my github organization account for open sourced Angular begginer applications if you are new to Angular](https://github.com/jsgroundup)     
  
-## Latest projects    
+## Latest public projects    
+- [Squarezn (Mobile App)](https://github.com/KBismark/squarezn) : An Image sharing app created with react-native, expo, expo router and tailwindcss. **Status: Ongoing**
 
+  ![Screenshot 2025-02-05 221208](https://github.com/user-attachments/assets/3c6f0e7a-aeb3-459f-9785-ca3344237321)    
+
+<br/> <br/> 
 - [Open Dictionary (Mobile App)](https://github.com/KBismark/open-dictionary) : An open sourced dictionary mobile application created with react-native, expo and using the Free Dictionary API.    
 
 ![Expo Dictionary App Preview](https://github.com/user-attachments/assets/7a381b4c-a099-41da-bf29-771b67b98bcc)    
