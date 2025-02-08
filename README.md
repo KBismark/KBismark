@@ -3,10 +3,10 @@ Angular and React applications, as well as mobile apps using React Native and Ex
 applications with Node.js and Express.js. [Reach me via mail📩](mailto:bismarkkwabenayamoah@gmail.com)   
 
 
-[Check my github organization account for open sourced Angular begginer applications if you are new to Angular](https://github.com/jsgroundup)     
+Check out my Github organization, [JSGroundUp](https://github.com/jsgroundup) for open-sourced Angular beginner applications if you are new to Angular.     
  
 ## Latest public projects    
-- [Squarezn (Mobile App)](https://github.com/KBismark/squarezn) : An Image sharing app created with react-native, expo, expo router and tailwindcss. **Status: Ongoing**
+- [Squarezn (Mobile App)](https://github.com/KBismark/squarezn) : An image sharing app created with react-native, expo, expo router and tailwindcss. **Status: Ongoing**
            
   ![Screenshot_SquareznExplore](https://github.com/user-attachments/assets/c772ca52-c039-47b5-8b8f-761e1bcc37b0)    
 
@@ -18,7 +18,7 @@ applications with Node.js and Express.js. [Reach me via mail📩](mailto:bismark
 <br/> <br/> 
 - [Cachestorage (NPM Package)](https://github.com/KBismark/cachestorage) : Do you like to build offline-first applications? Or you just need a better way to save data locally on the browser for your applications? Cachestorage gives the opportunity to interact easily with the Cache API for data storage and retrieval. Cachestorage also gives you the opportunity to validate, encrypt and even compress your data before storage.🔥🔥    
      
-[This article tells more on using the Cache API for data storage.](https://web.dev/articles/cache-api-quick-guide)    
+[This article talks more on using the Cache API for data storage.](https://web.dev/articles/cache-api-quick-guide)    
 
 <br/> 
 
@@ -44,7 +44,7 @@ So many times😆 I can't even tell how many times. Some were left on my laptops
 <br/>
 
 ## Can't leave out my first biggest work. NoscDB!
-This project taught me a lot about Nodejs. NoscDB was an attempt to create a database management system using JavaScript. Data were stored as JSON values in files using the Nodejs File System `fs` module. It was fast because of the Non-blocking and Asynchronous nature of nodejs applications. It included a server module that could be hosted and client module that could be used to communicate or retrieve data from the hosted server. Noscdb itself could also act as both the client and hosted server to be used in anu nodejs application. [Here is a link to my start of JavaScript and Nodejs programming. NoscDB](https://github.com/KBismark/noscdb).    
+This project taught me a lot about Nodejs. NoscDB was an attempt to create a database management system using JavaScript. Data were stored as JSON values in files using the Nodejs File System `fs` module. It was fast because of the Non-blocking and Asynchronous nature of nodejs applications. It included a server module that could be hosted and client module that could be used to communicate or retrieve data from the hosted server. Noscdb itself could also act as both the client and hosted server to be used in any nodejs application. [Here is a link to my start of JavaScript and Nodejs programming. NoscDB](https://github.com/KBismark/noscdb).    
 
 [Code Chat (Web application)](https://github.com/KBismark/CodeChat) was a test to see how NoscDB would perform in applications. Try it out.    
 
