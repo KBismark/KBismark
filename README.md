@@ -34,11 +34,9 @@ Check out my Github organization, [JSGroundUp](https://github.com/jsgroundup) fo
 <br/>
 
 ## How many times I created a reactive web framework?   
-*So many times...*    
-I've always had some good strategies and ideas to integrate into any reactive web framework. I have attempted severally to create one.     
-Each time I tried, I was driven by the ideas and a deep curiosity about the web's inner workings and how other reactive frameworks like React works. Throughout these moments, I gained valuable insights about the web and also got to put my problem solving skills into practice. One usual challenge I encountered during these moments include finding optimal ways to convert JSX codes into JavaScript executable codes, which I tackled by writing customized RegExp-only compilers/transpilers.
+*So many times...*   
 
-**The following are links to some of my attempts (Latest first):** 
+**Links to some of my attempts (Latest first):** 
 - [Xolus (in 2024)](https://github.com/KBismark/xolus) : JSX template engine and a modern html rendering framework. A link to a full app created with this framework is available on the project's repo.
 
 - [HoneyBee.js (in 2023)](https://github.com/KBismark/honey-bee/blob/master/demo/README.md) : Build your next interactive and reactive multi-page applications with the latest but fastest librabry: HoneyBee.js.
@@ -51,8 +49,8 @@ Each time I tried, I was driven by the ideas and a deep curiosity about the web'
 
 <br/>
 
-## Database management attempt in Nodejs. NoscDB!
-This project taught me a lot about Nodejs. NoscDB was an attempt to create a database management system using JavaScript. Data were stored as JSON values in files using the Nodejs File System `fs` module. It was fast because of the Non-blocking and Asynchronous nature of nodejs applications. It included a server module that could be hosted and client module that could be used to communicate or retrieve data from the hosted server. Noscdb itself could also act as both the client and hosted server to be used in any nodejs application. [Source](https://github.com/KBismark/noscdb).    
+## Database management attempt in Nodejs. NoscDB!    
+[Source](https://github.com/KBismark/noscdb).    
 
 [Code Chat (Web application)](https://github.com/KBismark/CodeChat) was a test to see how NoscDB would perform in applications. Try it out.    
 
