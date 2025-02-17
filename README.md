@@ -1,15 +1,15 @@
 # Hi👋 I am Bismark😎         
-I'm a software engineer specializing in web and mobile app development with hands-on experience in building 
-Angular and React applications, as well as mobile apps using React Native and Expo. I also have experience in developing backend 
+A software engineer specializing in web and mobile app development with hands-on experience in building 
+Angular and React applications, as well as mobile apps using React Native and Expo. Experienced in developing backend 
 applications with Node.js and Express.js.    
 
 **Contacts:**    
-[🛜 Connect on LinkedIn](https://linkedin.com/in/kbismark)     
-[🔗 Visit my portfolio site](https://kbis.netlify.app/)      
-[📩 Reach me via mail](mailto:bismarkkwabenayamoah@gmail.com)   
+[🛜 Connect with me on LinkedIn](https://linkedin.com/in/kbismark)     
+[🔗 My portfolio site](https://kbis.netlify.app/)      
+[📩 You may also reach me via mail](mailto:bismarkkwabenayamoah@gmail.com)   
 
 
-Check out my Github organization, [JSGroundUp](https://github.com/jsgroundup) for open-sourced Angular beginner applications if you are new to Angular.     
+Check out my Github organization, [JSGroundUp](https://github.com/jsgroundup) for open-sourced Angular beginner applications.     
  
 ## Latest public projects    
 - [Squarezn (Mobile App)](https://github.com/KBismark/squarezn) : An image sharing app created with react-native, expo, expo router and tailwindcss. **Status: Ongoing**
@@ -33,10 +33,7 @@ Check out my Github organization, [JSGroundUp](https://github.com/jsgroundup) fo
 
 <br/>
 
-## How many times I created a reactive web framework?   
-*So many times...*   
-
-**Links to some of my attempts (Latest first):** 
+## Reactive web framework attempts    
 - [Xolus (in 2024)](https://github.com/KBismark/xolus) : JSX template engine and a modern html rendering framework. A link to a full app created with this framework is available on the project's repo.
 
 - [HoneyBee.js (in 2023)](https://github.com/KBismark/honey-bee/blob/master/demo/README.md) : Build your next interactive and reactive multi-page applications with the latest but fastest librabry: HoneyBee.js.
