@@ -1,4 +1,4 @@
-# Hi👋 I am Bismark😎         
+# KBismark         
 A software engineer specializing in web and mobile app development with hands-on experience in building 
 Angular and React applications, as well as mobile apps using React Native and Expo. Experienced in developing backend 
 applications with Node.js and Express.js.    
