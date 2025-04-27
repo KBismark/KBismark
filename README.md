@@ -16,9 +16,8 @@ Check out my Github organization, [JSGroundUp](https://github.com/jsgroundup) fo
 
 - [Open Dictionary (Mobile App)](https://github.com/KBismark/open-dictionary) : An open sourced dictionary mobile application created with react-native, expo and using the Free Dictionary API.       
 
-- [Cachestorage (NPM Package)](https://github.com/KBismark/cachestorage) : Do you like to build offline-first applications? Or you just need a better way to save data locally on the browser for your applications? Cachestorage gives the opportunity to interact easily with the Cache API for data storage and retrieval. Cachestorage also gives you the opportunity to validate, encrypt and even compress your data before storage.🔥🔥    
-     
-[This article talks more on using the Cache API for data storage.](https://web.dev/articles/cache-api-quick-guide)    
+- [Cachestorage (NPM Package)](https://github.com/KBismark/cachestorage) : Do you like to build offline-first applications? Or you just need a better way to save data locally on the browser for your applications? Cachestorage gives the opportunity to interact easily with the Cache API for data storage and retrieval. Cachestorage also gives you the opportunity to validate, encrypt and even compress your data before storage.       
+        
 
 <br/>
 
@@ -32,13 +31,7 @@ Check out my Github organization, [JSGroundUp](https://github.com/jsgroundup) fo
 - [JSHON (in 2023)](https://github.com/KBismark/jshon) : Build world-class web apps with JavaScript-Html Object Notation (JSHON).
 
 - [Festjs (in 2022)](https://github.com/KBismark/festjs) : Build fast, reactive and reusable components for the web.
-
-<br/>
-
-## Database management attempt in Nodejs. NoscDB!    
-[Source](https://github.com/KBismark/noscdb).    
-
-[Code Chat (Web application)](https://github.com/KBismark/CodeChat) was a test to see how NoscDB would perform in applications. Try it out.    
+    
 
 
 
