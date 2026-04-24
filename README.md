@@ -61,7 +61,7 @@
 </div>
 
 ---
-
+<!--
 # 📱 Mobile Development
 
 > Cross-platform mobile applications built with React Native & Expo — focused on performance, clean UX, and real-world utility.
@@ -496,3 +496,4 @@ I'm open to **full-time engineering roles**, **contract projects**, and **open-s
 <div align="center">
   <sub>⚡ Built with precision by <a href="https://github.com/KBismark">Bismark Yamoah</a> · Ghana 🇬🇭</sub>
 </div>
+-->
