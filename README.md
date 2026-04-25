@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Mobile+App+Developer+%7C+React+Native+%2B+Expo;Web+Developer+%7C+Angular+%2C+React+%2C+Node.js;Building+tools+developers+love+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Mobile+App+Developer+%7C+React+Native+%2B+Expo;Web+Developer+%7C+Angular+%2C+React+%2C+Node.js;Building+tools+developers+love)](https://git.io/typing-svg)
 
 <br/>
 
@@ -47,15 +47,15 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-01684a?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-<!--
-**ML / AI / Python**
+
+**Python**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
--->
+<!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) -->
+
 
 
 </div>
