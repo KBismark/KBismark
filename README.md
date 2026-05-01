@@ -1,9 +1,10 @@
-<div align="center">
+<div>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Mobile+App+Developer+%7C+React+Native+%2B+Expo;Web+Developer+%7C+Angular+%2C+React+%2C+Node.js;Building+tools+developers+love)](https://git.io/typing-svg)
 
 <br/>
+-->
 
 <!-- HEADER BANNER -->
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000000,100:000000&height=200&section=header&text=Bismark%20Yamoah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Mobile%20%C2%B7%20Web%20%C2%B7%20ML%2FAI&descColor=00d4ff&descAlignY=58&animation=fadeIn" alt="header"/> -->
@@ -24,6 +25,16 @@
 
 <div align="cente">
 
+**Python**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-030710?style=for-the-badge&logo=langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+<!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) -->
+
 **Mobile App**
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -34,7 +45,7 @@
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-007ACC?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -47,14 +58,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-01684a?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-
-**Python**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-<!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) -->
 
 
 
