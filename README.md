@@ -18,7 +18,7 @@
 
 
 </div>
-
+<!--
 ---
 
 ## Tech Stack
@@ -32,8 +32,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) -->
 
 **Mobile App**
 
@@ -64,6 +62,7 @@
 </div>
 
 ---
+-->
 <!--
 # 📱 Mobile Development
 
